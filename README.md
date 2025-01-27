@@ -4,7 +4,7 @@ This approach of Artistic Neural Style Transfer separates a style from and image
 An example of the original image, the used style and the resulting image:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="img/content" alt="Image 1" width="30%" />
-  <img src="img/style" alt="Image 2" width="30%" />
-  <img src="img/result" alt="Image 3" width="30%" />
+  <img src="original.png" alt="original" width="30%" />
+  <img src="style.png" alt="style" width="30%" />
+  <img src="result.png" alt="result" width="30%" />
 </div>
